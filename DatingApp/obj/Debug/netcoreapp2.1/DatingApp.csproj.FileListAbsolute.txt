@@ -12,3 +12,17 @@ C:\Users\wojte\Documents\GitHub\DatingAppAPI\DatingApp\obj\Debug\netcoreapp2.1\D
 C:\Users\wojte\Documents\GitHub\DatingAppAPI\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorTargetAssemblyInfo.cache
 C:\Users\wojte\Documents\GitHub\DatingAppAPI\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.dll
 C:\Users\wojte\Documents\GitHub\DatingAppAPI\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.pdb
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.deps.json
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.runtimeconfig.json
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.runtimeconfig.dev.json
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.dll
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\bin\Debug\netcoreapp2.1\DatingApp.pdb
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.csprojAssemblyReference.cache
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorAssemblyInfo.cache
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorAssemblyInfo.cs
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.AssemblyInfoInputs.cache
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.AssemblyInfo.cs
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.RazorTargetAssemblyInfo.cache
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.dll
+C:\Users\wojte\Documents\ASP_NET__DatingApp\DatingApp\obj\Debug\netcoreapp2.1\DatingApp.pdb
