@@ -12141,9 +12141,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wojte\\Documents\\ASP_NET__DatingApp\\DatingApp\\DatingApp.csproj",
-      "projectName": "DatingApp",
-      "projectPath": "C:\\Users\\wojte\\Documents\\ASP_NET__DatingApp\\DatingApp\\DatingApp.csproj",
+      "projectUniqueName": "C:\\Users\\wojte\\Documents\\ASP_NET__DatingApp\\DatingApp\\DatingApp.API.csproj",
+      "projectName": "DatingApp.API",
+      "projectPath": "C:\\Users\\wojte\\Documents\\ASP_NET__DatingApp\\DatingApp\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wojte\\Documents\\ASP_NET__DatingApp\\DatingApp\\obj\\",
       "projectStyle": "PackageReference",
